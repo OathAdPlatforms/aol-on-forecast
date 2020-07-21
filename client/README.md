@@ -10,3 +10,4 @@ Client library for forecast service.
 val client = new ForecastClientImpl()
 val forecast = client.forecast(Array(1, 2, 3, 4, 3, 2, 1), 7)
 ```
+test
